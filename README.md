@@ -35,6 +35,7 @@ Cluster 4 → High Income – Low Spending (Careful / Budget-conscious Customers
 
 Cluster Visualization
 ![Cluster Visualization](https://github.com/MuleAlemuB/data-mining-group-4/blob/main/images/download%20(5).png?raw=true)
+![Cluster Visualization](https://github.com/MuleAlemuB/data-mining-group-4/blob/main/images/download%20(6).png?raw=true)
 
 
 ### Cluster Centroids
