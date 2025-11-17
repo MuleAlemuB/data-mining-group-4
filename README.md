@@ -24,7 +24,14 @@ Objectives
  Key Results
 - Total Clusters Formed: 5  
 - Inertia (Sum of squared distances): 169.89  
-- Silhouette Score: 0.3883  
+- Silhouette Score: 0.3883
+-  
+INTERPRETATION OF CLUSTERS
+Cluster 0 → High Income – High Spending (Premium Customers)
+Cluster 1 → Low Income – High Spending (Impulsive Buyers)
+Cluster 2 → Medium Income – Medium Spending (Average Customers)
+Cluster 3 → Low Income – Low Spending (Low-Value Customers)
+Cluster 4 → High Income – Low Spending (Careful / Budget-conscious Customers)
 
 Cluster Visualization
 ![Cluster Plot](images/cluster_plot.png) *(replace with your saved plot image)*
