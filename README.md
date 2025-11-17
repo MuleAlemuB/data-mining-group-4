@@ -34,7 +34,8 @@ Cluster 3 → Low Income – Low Spending (Low-Value Customers)
 Cluster 4 → High Income – Low Spending (Careful / Budget-conscious Customers)
 
 Cluster Visualization
-![Cluster Plot](images/cluster_plot.png) *(replace with your saved plot image)*
+![Cluster Visualization](https://github.com/MuleAlemuB/data-mining-group-4/blob/main/images/download%20(5).png?raw=true)
+
 
 ### Cluster Centroids
 | Cluster | Annual Income (k$) | Spending Score (1-100) |
