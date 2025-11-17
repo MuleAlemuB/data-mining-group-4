@@ -1,17 +1,16 @@
-Title :Mall Customer Segmentation using K means clustering
+Title:- Mall Customer Segmentation using K means clustering
 
-Project Overview
+Project Overview:-
 This project performs customer segmentation on a mall's customer dataset to identify distinct groups based on their spending behavior and annual income. The analysis helps in understanding customer profiles, which can guide marketing strategies and business decisions.
-
 The dataset used is `Mall_Customers.csv`, which contains attributes such as CustomerID, Gender, Age, Annual Income (k$), and Spending Score (1-100).
 
-Objectives
+Objectives:-
 - Segment customers into meaningful groups using K-Means Clustering.
 - Visualize clusters and understand patterns in customer behavior.
 - Identify key insights such as high-value customers or low-spending groups.
 - Save the processed data and trained model for further analysis or deployment.
 
- Key Steps
+ Key Steps:-
 1. Data Loading – Import the dataset into a Pandas DataFrame.
 2. Exploratory Data Analysis (EDA) – Visualize distributions, correlations, and relationships.
 3. Data Preprocessing – Handle missing values, encode categorical variables, and prepare features.
@@ -21,25 +20,29 @@ Objectives
 7. Visualization – Plot clusters and centroids for clear interpretation.
 8. Export Results – Save clustered data as `Mall_Customers_Segmented.csv` and trained model as `kmeans_mall_model.pkl`.
 
- Key Results
+ Key Results:-
 - Total Clusters Formed: 5  
 - Inertia (Sum of squared distances): 169.89  
 - Silhouette Score: 0.3883
--  
+   
 INTERPRETATION OF CLUSTERS
-Cluster 0 → High Income – High Spending (Premium Customers)
-Cluster 1 → Low Income – High Spending (Impulsive Buyers)
-Cluster 2 → Medium Income – Medium Spending (Average Customers)
-Cluster 3 → Low Income – Low Spending (Low-Value Customers)
-Cluster 4 → High Income – Low Spending (Careful / Budget-conscious Customers)
+- Cluster 0 → High Income – High Spending (Premium Customers)
+- Cluster 1 → Low Income – High Spending (Impulsive Buyers)
+- Cluster 2 → Medium Income – Medium Spending (Average Customers)
+- Cluster 3 → Low Income – Low Spending (Low-Value Customers)
+- Cluster 4 → High Income – Low Spending (Careful / Budget-conscious Customers)
 
 Cluster Visualization
-![Cluster Visualization](https://github.com/MuleAlemuB/data-mining-group-4/blob/main/images/download%20(5).png?raw=true)
-![Cluster Visualization](https://github.com/MuleAlemuB/data-mining-group-4/blob/main/images/download%20(6).png?raw=true)
+- Data Visualization
+![Cluster Visualization](https://github.com/MuleAlemuB/data-mining-group-4/blob/main/images/download%20(8).png?raw=true)
+-  Choose Best Number of Clusters (Elbow + Silhouette)
 ![Cluster Visualization](https://github.com/MuleAlemuB/data-mining-group-4/blob/main/images/download%20(7).png?raw=true)
+- Customer Segmentation Clusters
+![Cluster Visualization](https://github.com/MuleAlemuB/data-mining-group-4/blob/main/images/download%20(6).png?raw=true)
+- Cluster Profile Comparison
+![Cluster Visualization](https://github.com/MuleAlemuB/data-mining-group-4/blob/main/images/download%20(5).png?raw=true)
 
-
-### Cluster Centroids
+Cluster Centroids
 | Cluster | Annual Income (k$) | Spending Score (1-100) |
 |---------|------------------|------------------------|
 | 1       | 25.9             | 79.3                   |
@@ -68,6 +71,6 @@ Usage
 4. Visualize clusters and check the exported CSV for segmented data.
 
 Author
-Group 4 students 
-Debre Tabor University  
-4th Year Computer Science Students
+- Group 4 students 
+- Debre Tabor University  
+- 4th Year Computer Science Students
