@@ -73,11 +73,11 @@ Usage
 Author
 - Group 4 students
 - group members
-  1 mulugeta alemu.   0778
-  2 chernet fikadu.   0480
-  3 eyuel adugna.     0247
-  4 birhanu mulugeta.  0704
-  5 eyobel mulatie.    6014
-  6 zikra burhan.       1895 
+  - mulugeta alemu.   0778
+  - chernet fikadu.   0480
+  - eyuel adugna.     0247
+  - birhanu mulugeta.  0704
+  - eyobel mulatie.    6014
+  - zikra burhan.       1895 
 - Debre Tabor University  
 - 4th Year Computer Science Students
