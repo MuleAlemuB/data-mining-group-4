@@ -71,6 +71,13 @@ Usage
 4. Visualize clusters and check the exported CSV for segmented data.
 
 Author
-- Group 4 students 
+- Group 4 students
+- group members
+  1 mulugeta alemu.   0778
+  2 chernet fikadu.   0480
+  3 eyuel adugna.     0247
+  4 birhanu mulugeta.  0704
+  5 eyobel mulatie.    6014
+  6 zikra burhan.       1895 
 - Debre Tabor University  
 - 4th Year Computer Science Students
